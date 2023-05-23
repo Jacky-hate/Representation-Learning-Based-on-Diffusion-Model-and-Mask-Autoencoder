@@ -1,0 +1,17 @@
+
+state-21700.log
+*.log
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+models/__pycache__/dmim.cpython-39.pyc.139688442468912
+models/__pycache__/dmim.cpython-39.pyc.139725303552560
+models/__pycache__/dmim.cpython-39.pyc.139773411428912
+*.pyc
+*.pyc
+*.pyc
+models/__pycache__/vision_transformer.cpython-39.pyc
+*.pyc
+*.pyc
+*.pyc
